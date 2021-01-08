@@ -1,0 +1,37 @@
+functionalCategory	maternalNonConvergentSites	maternalConvergentSites	numMaternalTriplets	paternalNonConvergentSites	paternalConvergentSites	numPaternalTriplets	maternalConservativeAutapomorphies	maternalRadicalAutapomorphies	paternalConservativeAutapomorphies	paternalRadicalAutapomorphies
+Mitochondria_Enzyme_Complexes	63	0	63	67	4	71	11	8	8	3
+Mitochondria-targeted_Interacting	148	1	149	145	9	154	55	47	22	17
+Mitochondria-targeted_Non-interacting	1193	7	1200	948	55	1003	451	285	209	177
+mt-DNA_RRR	10	0	10	11	1	12	5	2	2	3
+mt-Mitoribosome-Large_Subunit	32	0	32	35	2	37	6	4	3	1
+mt-Mitoribosome-Small_Subunit	9	0	9	14	0	14	2	3	1	1
+mt-OXPHOS-Complex_III	6	0	6	3	0	3	3	0	2	5
+mt-OXPHOS-Complex_I	7	0	7	6	1	7	0	1	2	0
+mt-OXPHOS-Complex_IV	0	0	0	1	0	1	0	0	0	0
+mt-OXPHOS-Complex_V	9	0	9	8	1	9	0	0	1	1
+mt-OXPHOS	22	0	22	18	2	20	3	1	4	1
+mt-PPR	16	0	16	12	2	14	3	4	4	1
+mt-Transcription_and_Transcript_Maturation-Intron_Splicing	7	0	7	11	0	11	2	00
+mt-Transcription_and_Transcript_Maturation-mTERF	0	0	0	1	0	1	0	0	00
+mt-Transcription_and_Transcript_Maturation-Transcript_End_Processing	2	0	2	1	0	12
+mt-tRNA_Aminoacylation	52	1	53	44	2	46	33	33	5	3
+Not-organelle-targeted	10714	75	10789	9013	487	9500	3202	1996	1353	1200
+Plastid_Enzyme_Complexes	69	0	69	43	0	43	19	6	11	5
+Plastid-targeted_Interacting	198	1	199	161	4	165	79	57	27	13
+Plastid-targeted_Non-interacting	1403	6	1409	1155	69	1224	486	303	203	145
+pt-Chlororibosome-Large_Subunit	14	0	14	13	0	13	6	1	4	3
+pt-Chlororibosome-Small_Subunit	6	0	6	6	0	6	2	0	4	1
+pt-CLP	12	0	12	3	0	3	2	2	2	1
+pt-DNA_RRR	3	0	3	9	0	9	3	2	2	3
+pt-Photosynthesis-ATP_Synthase	0	0	0	5	0	5	0	0	0	0
+pt-Photosynthesis-Cytochrome_b6f	1	0	1	0	0	0	0	0	0	0
+pt-Photosynthesis-NDH	19	0	19	13	0	13	1	2	0	0
+pt-Photosynthesis-PSII	2	0	2	1	0	1	7	1	0	0
+pt-Photosynthesis-PSI	20	0	20	2	0	2	1	0	1	0
+pt-PPR	32	0	32	34	1	35	10	9	4	1
+pt-Transcription_and_Transcript_Maturation-Intron_Splicing	8	0	8	14	0	14	3	10
+pt-Transcription_and_Transcript_Maturation-mTERF	6	0	6	7	0	7	0	3	00
+pt-Transcription_and_Transcript_Maturation-Sigma_Factor	13	0	13	10	1	11	6	05
+pt-Transcription_and_Transcript_Maturation-Transcript_End_Processing	2	0	2	1	0	12
+pt-Transcription_and_Transcript_Maturation-tRNA_Base_Modification	11	0	11	6	0	6	41
+pt-tRNA_Aminoacylation	49	1	50	37	2	39	26	25	4	1
